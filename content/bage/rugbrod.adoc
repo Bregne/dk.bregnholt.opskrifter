@@ -7,6 +7,7 @@ category=bage
 ~~~~~~
 = Rugbrød
 
+== Ingredienser
 
  * 300 gram surdej fra køleskabet
 
@@ -20,7 +21,7 @@ category=bage
 
  * 550 g rugmel (Hvis ekstra kerner droppes skal der 600 g rugmel i)
 
-
+== Fremgangsmåde
 
 Surdej og salt røres ud i vandet i stor skål eller røremaskine.
 
