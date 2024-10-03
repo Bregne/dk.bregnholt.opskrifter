@@ -6,8 +6,7 @@ status=published
 category=bage
 ~~~~~~
 = Rugbrød
-Tage Bregnholt
-?
+
 
  * 300 gram surdej fra køleskabet
 
