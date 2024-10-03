@@ -1,0 +1,13 @@
+title=titel
+date=2024-10-03
+type=page
+tags=bage
+status=published
+category=
+~~~~~~
+= titel
+
+== Ingredienser
+
+
+== Fremgangsmåde
