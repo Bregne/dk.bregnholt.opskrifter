@@ -7,7 +7,7 @@ category=gris
 ~~~~~~
 = Frikadeller
 
-500	gram Svinekød, hakket 
+400	gram Svinekød, hakket 
 
 1	Æg 
 
@@ -15,9 +15,9 @@ category=gris
 
 200	gram Løg, pillet vægt
 
-0.5	dl.	Mælk
+0.4	dl.	Mælk
 
-1 tsk. Salt ???
+6 gram. Salt 
 
 Peber
 
@@ -25,3 +25,5 @@ Peber
 Rør farsen først med salt og mel sejt. der efter1 æg, og det røres godt igennem, tilsæt de finthakkede løg og rør sej igen. tilsæt mælk, så farsen bliver formfast.
 
 Dyp en spiseske i varmt vand, og form frikadellerne inden de kommes på panden med let brunet smør. steges ca. 4 min. på hver side, så de har fået en sprød skorpe.
+
+TIP: 1.5 salt per 100 gram gris
